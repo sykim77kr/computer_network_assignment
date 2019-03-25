@@ -8,4 +8,4 @@
 
 - -i : 정렬할 배열
 
-$ python assignment_01.py -o A -i 5 10 2 7 6
+<pre><code>$ python assignment_01.py -o A -i 5 10 2 7 6</code></pre>
